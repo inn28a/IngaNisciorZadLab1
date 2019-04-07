@@ -8,3 +8,13 @@ C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\Ing
 C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.csproj.CoreCompileInputs.cache
 C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.exe
 C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.pdb
+D:\github\Lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\bin\Debug\IngaNisciorZadLab1.exe.config
+D:\github\Lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\bin\Debug\IngaNisciorZadLab1.exe
+D:\github\Lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\bin\Debug\IngaNisciorZadLab1.pdb
+D:\github\Lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.csprojAssemblyReference.cache
+D:\github\Lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.FormMain.resources
+D:\github\Lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.Properties.Resources.resources
+D:\github\Lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.csproj.GenerateResource.cache
+D:\github\Lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.csproj.CoreCompileInputs.cache
+D:\github\Lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.exe
+D:\github\Lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.pdb

@@ -100,7 +100,7 @@
             this.buttonStart.TabIndex = 8;
             this.buttonStart.Text = "START";
             this.buttonStart.UseVisualStyleBackColor = true;
-            this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click_1);
+            this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
             // 
             // textTimer
             // 
@@ -163,10 +163,10 @@
             this.listOfItemsTextBox.Size = new System.Drawing.Size(150, 580);
             this.listOfItemsTextBox.TabIndex = 10;
             this.listOfItemsTextBox.Text = "";
-            this.listOfItemsTextBox.TextChanged += new System.EventHandler(this.listOfItemsTextBox_TextChanged);
             // 
             // endOfGameButton
             // 
+            this.endOfGameButton.Enabled = false;
             this.endOfGameButton.Location = new System.Drawing.Point(12, 9);
             this.endOfGameButton.Name = "endOfGameButton";
             this.endOfGameButton.Size = new System.Drawing.Size(908, 580);
