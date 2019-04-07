@@ -1,0 +1,10 @@
+C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\bin\Debug\IngaNisciorZadLab1.exe.config
+C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\bin\Debug\IngaNisciorZadLab1.exe
+C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\bin\Debug\IngaNisciorZadLab1.pdb
+C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.csprojAssemblyReference.cache
+C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.FormMain.resources
+C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.Properties.Resources.resources
+C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.csproj.GenerateResource.cache
+C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.csproj.CoreCompileInputs.cache
+C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.exe
+C:\Users\Devilomen\Desktop\Inga Niscior\inga_niscior\lab1\IngaNisciorZadLab1\IngaNisciorZadLab1\obj\Debug\IngaNisciorZadLab1.pdb
